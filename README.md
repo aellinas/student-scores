@@ -1,5 +1,12 @@
 # Student-scores
 
+## **Contents page**
+* [Project](#Project)
+* [Reason](#Reason)
+* [Requirements](#Requirements)
+* [Output](#Output)
+* [Maintenance](#Maintenance)
+
 
 ## **Project**
 The algorithm is used to process a data source. It parses an external CSV file which contains data records of 60 students with their name and marks up to 100 for 7 subjects (Science, Maths, English, Software, Network, Business, Media). This data will be transformed into-
@@ -15,6 +22,8 @@ The program can be used for-
 * A visual or statistical representation of the difference in marks between students and subjects
 * Viewing the trend in marks for the students and subjects
 * Viewing the personal best for students (the subject and mark) 
+
+## **Requirements**
 
 
 ## **Output**
