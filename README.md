@@ -7,9 +7,8 @@ The algorithm is used to process a data source. It parses an external CSV file w
   2)	Statistical data including median, mean and standard deviation, whether the scores are reaching an expected result and the subjects with the best statistic
   3)	The subject and mark each student got the highest in
 
+![image](https://user-images.githubusercontent.com/73494385/97221358-ac7f8800-17c4-11eb-89f3-d24751005060.png)
 
-
-![image](https://user-images.githubusercontent.com/73494385/97219375-d5524e00-17c1-11eb-9639-1ffd55ad2359.png)
 
 ## **Reason**
 The program can be used for-
