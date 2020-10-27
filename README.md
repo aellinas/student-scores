@@ -4,7 +4,7 @@
 1) [Project](#Project)
 2) [Aim](#Aim)
 3) [Requirements](#Requirements)
-4) [How to use program](#Howtouseprogram)
+4) [How to use program](#How to use program)
 5) [Output](#Output)
 6) [Maintenance](#Maintenance)
 
