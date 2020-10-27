@@ -1,8 +1,8 @@
 # Student-scores
 
 ## **Contents page**
-* [Project](#Project)
-* [Reason](#Reason)
+1) [Project](#Project)
+2) [Reason](#Reason)
 * [Requirements](#Requirements)
 * [Output](#Output)
 * [Maintenance](#Maintenance)
