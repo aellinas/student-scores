@@ -4,7 +4,7 @@
 1) [Project](#Project)
 2) [Aim](#Aim)
 3) [Requirements](#Requirements)
-4) [How to use program](#How to use program)
+4) [How to use program](#How)
 5) [Output](#Output)
 6) [Maintenance](#Maintenance)
 
@@ -27,7 +27,7 @@ The program can be used for-
 ## **Requirements**
 
 
-## **How to use program**
+## **How**
 1) Install the requirements.txt file
 2) Ensure the CSV file is in the same location as the code
 3) Run the code in python
