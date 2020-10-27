@@ -2,10 +2,11 @@
 
 ## **Contents page**
 1) [Project](#Project)
-2) [Reason](#Reason)
+2) [Aim](#Aim)
 3) [Requirements](#Requirements)
-4) [Output](#Output)
-5) [Maintenance](#Maintenance)
+4) [How to use program](#How to use program)
+5) [Output](#Output)
+6) [Maintenance](#Maintenance)
 
 
 ## **Project**
@@ -17,7 +18,7 @@ The algorithm is used to process a data source. It parses an external CSV file w
 ![image](https://user-images.githubusercontent.com/73494385/97221358-ac7f8800-17c4-11eb-89f3-d24751005060.png)
 
 
-## **Reason**
+## **Aim**
 The program can be used for-
 * A visual or statistical representation of the difference in marks between students and subjects
 * Viewing the trend in marks for the students and subjects
@@ -25,6 +26,13 @@ The program can be used for-
 
 ## **Requirements**
 
+
+## **How to use program**
+1) Install the requirements.txt file
+2) Ensure the CSV file is in the same location as the code
+3) Run the code in python
+4) The console will display the rows, the subjects and marks in which the student got the highest in, statistical results, best values for the statistics
+5) The graphical plot is generated and two external text files
 
 ## **Output**
 This is the intended output once the program is run- 
