@@ -3,9 +3,9 @@
 ## **Contents page**
 1) [Project](#Project)
 2) [Reason](#Reason)
-* [Requirements](#Requirements)
-* [Output](#Output)
-* [Maintenance](#Maintenance)
+3) [Requirements](#Requirements)
+4) [Output](#Output)
+5) [Maintenance](#Maintenance)
 
 
 ## **Project**
