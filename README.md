@@ -1,6 +1,6 @@
 # Student-scores
 
-## **Contents page**
+## **Contents-**
 1) [Project](#Project)
 2) [Aim](#Aim)
 3) [Requirements](#Requirements)
