@@ -26,7 +26,7 @@ The program can be used for-
 
 ## **Requirements**
 Python >=3.6 
-Refer to [requirements.txt](requirements.txt) for further requirements
+- Refer to [requirements.txt](requirements.txt) for further requirements
 - To install requirements use 'pip install -r requirements.txt' in the directory where the file has been downloaded
 
 ## **Instructions**
