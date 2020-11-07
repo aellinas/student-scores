@@ -33,13 +33,13 @@ The program can be used for-
 How to use the program-
 1) Install the requirements.txt file 
 2) Download the code and CSV file into the same directory
-3) Run the code in python/anaconda
+3) Run the code in Anaconda Spyder/ Python
 4) The console will display the rows, the subjects and marks in which the student got the highest in, statistical results, best values for the statistics
 5) The graphical plot is generated and two external text files
 
 ## **Output**
 This is the intended output once the program is run- 
-1)	7 subplots (1 for each subject) combined into a single graph- on screen and saved as 'graph.png' on device
+1)	7 subplots (1 for each subject) combined into a single graph- on 'Plots' subsection on Anaconda Spyder and saved as 'graph.png' on device
 2)	StatisticalResults text file- contains the median, mean and standard deviation of each subject and the maximum/minimum values of these
 3)	StudentHighest text file- contains the student name, score and subject they got the highest in  
 
