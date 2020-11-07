@@ -28,7 +28,7 @@ The program can be used for-
 Python >=3.6 
 Refer to requirements.txt for further requirements
 - To install requirements use 'pip install -r requirements.txt' in the directory where the file has been downloaded
-
+[alink](requirements.txt)
 ## **Instructions**
 How to use the program-
 1) Install the requirements.txt file 
