@@ -25,7 +25,7 @@ The program can be used for-
 * Viewing the personal best for students (the subject and mark) 
 
 ## **Requirements**
-__conda >=4.9.1__ || Python >=3.6 
+**conda >=4.9.1** || Python >=3.6 
 - Refer to [requirements.txt](requirements.txt) for further requirements
 - To install requirements use 'pip install -r requirements.txt' in the directory where the file has been downloaded
 
