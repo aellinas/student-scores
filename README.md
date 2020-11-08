@@ -31,11 +31,11 @@ The program can be used for-
 
 ## **Instructions**
 How to use the program-
-1) Install the requirements.txt file 
-2) Download the code and CSV file into the same directory
+1) Press the button 'Code' then 'Download ZIP' - this downloads all the files in the repository (requirements.txt,Student Results.csv, Student Scores.py) 
+2) Install the requirements.txt file 
 3) Run the code in Anaconda Spyder/ Python
 4) The console will display the rows, the subjects and marks in which the student got the highest in, statistical results, best values for the statistics
-5) The graphical plot is generated and two external text files
+5) The graphical plot is generated (anaconda- Plots subsection), saved to device as PNG file and two external text files
 
 ## **Output**
 This is the intended output once the program is run- 
